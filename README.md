@@ -1,6 +1,6 @@
 # Lambda Calculus Implementation in Haskell #
 
-Although this repository contains executable code, it is primarily intended for educational purposes.
+*The contents of this repository are provided for educational purposes.*
 
 Prototype implementation of the pure lambda calculus with string literals.
 
